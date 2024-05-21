@@ -9,5 +9,5 @@ kkkk
 pip install -r requirements.txt
  ```
 
- ![GIT DEMO]{./screenshots/apple.jpg}
- 
+ ![gitdemo](./screenshots/apple.jpg)
+
